@@ -1,0 +1,163 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+
+
+
+
+
+<!-- Just an image -->
+<nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="/docs/4.0/assets/brand/bootstrap-solid.svg" width="30" height="30" alt="">
+    </a>
+  </nav>
+
+
+  <!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="/docs/4.0/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+      Bootstrap
+    </a>
+  </nav>
+
+
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+  <nav class="navbar navbar-light bg-light">
+    <form class="form-inline">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </nav>
+
+
+
+
+
+  <!--nav bar-->
+  <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-white portfolio-navbar gradient">
+    <div class="container">
+    <a class="navbar-brand logo" href="http://bss.design/#">Bless</a>
+    <button data-bs-toggle="collapse" data-bs-target="#navbarNav" class="navbar-toggler">
+    <span class="visually-hidden">Toggle navigation</span>
+    <span class="navbar-toggler-icon"></span></button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ms-auto">
+    <li class="nav-item">
+    <a class="nav-link active" href="#">Home</a></li>
+    <li class="nav-item">
+    <a class="nav-link" href="#">About</a></li>
+    <li class="nav-item">
+    <a class="nav-link" href="#">Contact</a></li>
+       <li class="nav-item"><a class="nav-link" href="#">Skills</a>
+    </li>
+  </ul>
+</div>
+</div>
+</nav>
+<!--page and icon -->
+<main class="page lanidng-page">
+<section class="portfolio-block block-intro">
+<div class="container">
+  <div class="about-me">
+  <p>Hello! Welcome to Blessing Site</p>
+      <a class="btn btn-outline-primary" role="button" href="#">About ME</a>
+      </div>
+      </div></section><section class="portfolio-block photography"><div class="container"><div class="row g-0"><div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://bss.design/#"><img class="img-fluid image" src="blob:https://bootstrapstudio.io/3cacb913-1e53-495f-87fd-23f048bd5579"></a></div><div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://bss.design/#"><img class="img-fluid image" src="blob:https://bootstrapstudio.io/c1be0966-4294-40a6-824d-153c5f736b25"></a></div><div class="col-md-6 col-lg-4 item zoom-on-hover"><a href="http://bss.design/#"><img class="img-fluid image" src="blob:https://bootstrapstudio.io/5019d055-3c8b-428f-ae94-d0b9ccede306"></a></div></div></div></section><section class="portfolio-block call-to-action border-bottom"><div class="container"><div class="d-flex justify-content-center align-items-center content"><h3>Like what you see?</h3></div></div></section><section class="portfolio-block skills"><div class="container"><div class="heading"><h2>Special Skills</h2></div><div class="row"><div class="col-md-4"><div class="card special-skill-item border-0"><div class="card-header bg-transparent border-0"><i class="icon ion-social-rss"></i></div><div class="card-body"><h3 class="card-title">Web Design</h3><p class="card-text">Join Blessing on the world tour</p></div></div></div><div class="col-md-4"><div class="card special-skill-item border-0"><div class="card-header bg-transparent border-0"><i class="icon ion-ios-lightbulb-outline"></i></div><div class="card-body"><h3 class="card-title">Interface Design</h3><p class="card-text">Make your Site Attractive</p></div></div></div><div class="col-md-4"><div class="card special-skill-item border-0"><div class="card-header bg-transparent border-0"></div><div class="card-body"><h3 class="card-title"></h3></div></div></div></div></div></section></main><section class="portfolio-block website gradient"><div class="container"><div class="row align-items-center"><div class="col-md-12 col-lg-5 offset-lg-1 text"><h3>Website Project</h3><p></p></div><div class="col-md-12 col-lg-5"><div class="portfolio-laptop-mockup"><div class="screen"><div class="screen-content" style="background-image: url(&quot;blob:https://bootstrapstudio.io/421c2b36-f7c4-4428-ad92-c242b591ca7f&quot;);"></div></div><div class="keyboard"></div></div></div></div></div></section><footer class="page-footer"><div class="container"><div class="links"><a href="http://bss.design/#">About me</a><a href="http://bss.design/#">Contact me</a><a href="http://bss.design/#">Projects</a></div><div class="social-icons"><a href="http://bss.design/#"><i class="icon ion-social-facebook"></i></a><a href="http://bss.design/#"><i class="icon ion-social-instagram-outline"></i></a><a href="http://bss.design/#"><i class="icon ion-social-twitter">
+
+      </i>
+    </a>
+  </div>
+</div>
+</footer>
+</body>
+</html>
+
+
+<!--form-->
+
+<form class="license-form">
+			
+  <h2>Enter Your License</h2>
+
+  <div class="row">
+    <label for="license-field">License Key</label>
+    <input type="text" name="license" id="license-field" spellcheck="false">
+  </div>
+
+  <div class="row">
+    <label for="computer-name-field">Name This Computer</label>
+    <input type="text" name="computer-name" id="computer-name-field" placeholder="e.g. My Laptop" maxlength="30" spellcheck="false">
+  </div>
+
+  <div class="row cb">
+    <label><input type="checkbox" id="agree"><span> I agree with the <a href="https://bootstrapstudio.io/pages/license" class="link">license agreement</a>.</span></label>
+  </div>
+
+  <div class="row">
+    <input type="hidden" id="device-field" name="device" value="">
+    <button type="submit" class="button darkgray submit disabled">Proceed</button>
+  </div>
+
+</form>
+
+
+
